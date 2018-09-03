@@ -1,0 +1,41 @@
+HLBS
+
+Rank calculation:
+
+laxity of 11 (end node) is 269.333333333
+laxity of 7 is 162.0
+laxity of 8 is 240.666666667
+laxity of 2 is 85.6666666667
+laxity of 10 is 242.666666667
+laxity of 3 is 87.0
+laxity of 4 is 63.3333333333
+laxity of 5 (end node) is 68.3333333333
+laxity of 9 (end node) is 70.6666666667
+laxity of 6 is 3.0
+laxity of 1 is -48.0
+
+
+Task allocation:
+
+Task allocation for 1
+Minimum EFT for 1 is 19 which is in resource p1
+Task allocation for 6
+Minimum EFT for 6 is 49 which is in resource p1
+Task allocation for 4
+Minimum EFT for 4 is 64 which is in resource p1
+Task allocation for 5
+Minimum EFT for 5 is 71 which is in resource p2
+Task allocation for 9
+Minimum EFT for 9 is 87 which is in resource p1
+Task allocation for 2
+Minimum EFT for 2 is 70 which is in resource p3
+Task allocation for 3
+Minimum EFT for 3 is 123 which is in resource p1
+Task allocation for 7
+Minimum EFT for 7 is 156 which is in resource p1
+Task allocation for 8
+Minimum EFT for 8 is 111 which is in resource p3
+Task allocation for 10
+Minimum EFT for 10 is 159 which is in resource p2
+Task allocation for 11
+Minimum EFT for 11 is 207 which is in resource p1

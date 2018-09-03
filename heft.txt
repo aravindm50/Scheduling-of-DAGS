@@ -1,0 +1,40 @@
+HEFT
+
+Rank calculation:
+
+rank of 11 (end node) is 60.6666666667
+rank of 7 is 168.0
+rank of 8 is 89.3333333333
+rank of 2 is 244.333333333
+rank of 10 is 87.3333333333
+rank of 3 is 243.0
+rank of 4 is 266.666666667
+rank of 5 (end node) is 21.6666666667
+rank of 9 (end node) is 29.3333333333
+rank of 6 is 175.0
+rank of 1 is 378.0
+
+Task allocation:
+
+Task allocation for 1
+Minimum EFT for 1 is 19 which is in resource p1
+Task allocation for 4
+Minimum EFT for 4 is 34 which is in resource p1
+Task allocation for 2
+Minimum EFT for 2 is 62 which is in resource p1
+Task allocation for 3
+Minimum EFT for 3 is 98 which is in resource p1
+Task allocation for 6
+Minimum EFT for 6 is 86 which is in resource p2
+Task allocation for 7
+Minimum EFT for 7 is 131 which is in resource p1
+Task allocation for 8
+Minimum EFT for 8 is 141 which is in resource p2
+Task allocation for 10
+Minimum EFT for 10 is 143 which is in resource p3
+Task allocation for 11
+Minimum EFT for 11 is 193 which is in resource p1
+Task allocation for 9
+Minimum EFT for 9 is 120 which is in resource p2
+Task allocation for 5
+Minimum EFT for 5 is 79 which is in resource p3

@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "D:\\Anaconda\\python.exe",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/__init__.py": true,
+        "**/__pycache__": true
+    }
+}
